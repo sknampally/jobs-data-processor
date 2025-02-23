@@ -51,7 +51,7 @@ DB_CONFIG = {
 
 1. Run the application:
    ```sh
-   python main.py
+   python processor.py
    ```
 2. Follow the prompts to select the file type (JSON or CSV) and file path.
 3. The application will create users in the database and generate a reconciliation report.
